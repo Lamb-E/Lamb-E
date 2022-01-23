@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Lamb-E
-- 👀 I’m interested in reading，dancing and learning something new.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Here I will share something with you.
+
 
 <!---
 Lamb-E/Lamb-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
